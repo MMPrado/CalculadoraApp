@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraApp</string>
+    <string name="texto_num1">Numero 1:</string>
+    <string name="texto_num2">Numero 2:</string>
+    <string name="texto_resultado">Resultado:</string>
+    <string-array name="TipoCalculadora">
+        <item >Calculadora Normal</item>
+        <item >Calculadora Cientifica</item>
+    </string-array>
+    <string name="texto_sumar">Sumar</string>
+    <string name="texto_Restar">Restar</string>
+    <string name="texto_Factorial">Factorial</string>
+    <string name="texto_Limpiar">Limpiar</string>
+</resources>
